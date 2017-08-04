@@ -12,10 +12,10 @@ var articles = {
         content:` <p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
             </p>`,
-         heading:'Article-one'    
+        heading:'Article-one'    
     },
     'article-two':{
-         title:'articelone',
+        title:'articelone',
         date:'2 aug 2017',
         content:` <p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
@@ -26,7 +26,7 @@ var articles = {
         heading:'Article-one' 
     },
     'article-three':{
-         title:'articelthree',
+        title:'articelthree',
         date:'3 aug 2017',
         content:` <p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
