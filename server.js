@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var articles = {
     'article-one':{
-        title:articelone,
+        title: articelone,
         date:'1 aug 2017',
         content: `<p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
