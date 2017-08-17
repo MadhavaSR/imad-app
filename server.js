@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var articles = {
     'article-one':{
-        title: articelone,
+        title: 'articelone',
         date:'1 aug 2017',
         content: `<p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
@@ -15,7 +15,7 @@ var articles = {
         heading:'Article-one'    
     },
     'article-two':{
-        title:articelone,
+        title: 'articeltwo',
         date:'2 aug 2017',
         content:` <p>
                 this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article this is the content of my page article
