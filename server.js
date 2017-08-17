@@ -99,6 +99,9 @@ app.get('/hash/:input',function(req,res){
    res.send(hashedString);
 });
 
+app.get('/madhava/:input',function(req,res){
+   res.send('madhava typed '+req.params.input.toString()); 
+});
 
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
